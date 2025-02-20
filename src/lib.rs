@@ -1,6 +1,7 @@
 pub mod default_widgets;
 pub mod drop_down;
 pub mod editable_list;
+pub mod enum_combo_box;
 pub mod filter_proxy_item_model;
 pub mod item_model;
 pub mod misc_widgets;
